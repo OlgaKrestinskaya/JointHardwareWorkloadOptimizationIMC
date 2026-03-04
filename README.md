@@ -7,7 +7,7 @@ This repository contains the official implementation of
 > Accepted to **IEEE Access**
 > Paper links: [arXiv](), [IEEEXplore]()
 > 
-> This journal paper extends the conference publication: **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in **IEEE International Symposium on Circuits and Systems (ISCAS) 2025** [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
+> This journal paper extends the conference publication: **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in *IEEE International Symposium on Circuits and Systems (ISCAS) 2025* [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
 ---
 
 ## Overview
