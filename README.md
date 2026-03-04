@@ -12,7 +12,7 @@ This repository contains the official implementation of
 
 A joint hardware-workload co-optimization framework based on an optimized **evolutionary algorithm (EA)** for designing **generalized IMC accelerator architectures supporting multiple workloads**. 
 
-![Alt text](f1new.jpg)
+![Alt text](newMainfig_compressed_small.jpg)
 
 ### Key Features
 
