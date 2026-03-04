@@ -5,7 +5,8 @@ This repository contains the official implementation of
 
 > **Authors:** Olga Krestinskaya, Mohammed E. Fouda, Ahmed Eltawil, and Khaled N. Salama  
 > Accepted to **IEEE Access**
-
+> Paper links: [arXiv](), [IEEEXplore]()
+> This work is an extension of the conference paper **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in **IEEE International Symposium on Circuits and Systems (ISCAS) 2025** [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
 ---
 
 ## Overview
@@ -28,22 +29,21 @@ The framework is built on top of:
 
 ___
 
-**If you use this work, please cite:**
+**If you use this framework, please cite these two works:**
 
 ```bibtex
 @ARTICLE{
 }
 ```
 ```bibtex
-@INPROCEEDINGS{11043504,
+@INPROCEEDINGS{krestinskaya2025towards,
   author={Krestinskaya, Olga and Fouda, Mohammed E. and Eltawil, Ahmed and Salama, Khaled N.},
   booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
   title={Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization}, 
   year={2025},
-  volume={},
-  number={},
   pages={1-5},
   keywords={Circuits and systems;Computer architecture;In-memory computing;Hardware;Space exploration;Optimization;Design space exploration;in-memory computing;software-hardware co-design;RRAM;hardware optimization},
+  organization={IEEE},
   doi={10.1109/ISCAS56072.2025.11043504}
 }
 ```
