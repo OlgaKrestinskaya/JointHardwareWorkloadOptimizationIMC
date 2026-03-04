@@ -26,10 +26,27 @@ The framework is built on top of:
 
 - [**CiMLoop**](https://github.com/mit-emze/cimloop/tree/main)  
 
-> _Illustrative figure to be added here._
+___
 
-- **Paper:** (link will be added)  
-- **Citation:** (to be added)
+**If you use this work, please cite:**
+
+```bibtex
+@ARTICLE{
+}
+```
+```bibtex
+@INPROCEEDINGS{11043504,
+  author={Krestinskaya, Olga and Fouda, Mohammed E. and Eltawil, Ahmed and Salama, Khaled N.},
+  booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Circuits and systems;Computer architecture;In-memory computing;Hardware;Space exploration;Optimization;Design space exploration;in-memory computing;software-hardware co-design;RRAM;hardware optimization},
+  doi={10.1109/ISCAS56072.2025.11043504}
+}
+```
 
 ---
 
