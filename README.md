@@ -6,7 +6,8 @@ This repository contains the official implementation of
 > **Authors:** Olga Krestinskaya, Mohammed E. Fouda, Ahmed Eltawil, and Khaled N. Salama  
 > Accepted to **IEEE Access**
 > Paper links: [arXiv](), [IEEEXplore]()
-> This work is an extension of the conference paper **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in **IEEE International Symposium on Circuits and Systems (ISCAS) 2025** [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
+> 
+> This journal paper extends the conference publication: **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in **IEEE International Symposium on Circuits and Systems (ISCAS) 2025** [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
 ---
 
 ## Overview
