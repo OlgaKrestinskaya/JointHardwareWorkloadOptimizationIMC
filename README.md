@@ -5,7 +5,7 @@ This repository contains the official implementation of
 
 > **Authors:** Olga Krestinskaya, Mohammed E. Fouda, Ahmed Eltawil, and Khaled N. Salama  
 > Accepted to **IEEE Access**
-> Paper links: [arXiv](), [IEEEXplore]()
+> Paper links: [arXiv](https://arxiv.org/abs/2603.03880), [IEEEXplore](https://ieeexplore.ieee.org/document/11422854)
 > 
 > This journal paper extends the conference publication: **Towards Efficient IMC Accelerator Design Through Joint Hardware-Workload Co-optimization** published in *IEEE International Symposium on Circuits and Systems (ISCAS) 2025* [arXiv](https://arxiv.org/abs/2410.16759), [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11043504)
 ---
@@ -33,7 +33,15 @@ ___
 **If you use this framework, please cite these two works:**
 
 ```bibtex
-@ARTICLE{
+@ARTICLE{krestinskaya2026joint,
+  author={Krestinskaya, Olga and Fouda, Mohammed E. and Eltawil, Ahmed and Salama, Khaled N.},
+  journal={IEEE Access}, 
+  title={Joint Hardware-Workload Co-Optimization for In-Memory Computing Accelerators}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2026.3671360}
 }
 ```
 ```bibtex
