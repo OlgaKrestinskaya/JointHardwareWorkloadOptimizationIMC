@@ -78,10 +78,7 @@ HardwareWorkloadOptimization/
 
 ## Requirements
 
-- **Processor:** Multi-core CPU (64 cores used in our experiments recommended for faster search)
-
-Required libraries are listed in:  
-`HardwareWorkloadOptimization/main/testAndInstallations.ipynb`
+- **Processor:** Multi-core CPU (64 cores used in our experiments, recommended for faster search)
 
 ---
 
