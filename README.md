@@ -24,7 +24,7 @@ A joint hardware-workload co-optimization framework based on an optimized **evol
 - Compatible with **RRAM-based** and **SRAM-based IMC platforms**
 - Robust and adaptable across diverse **design and technology scenarios**
 
-The framework is built on top of [**CiMLoop**](https://github.com/mit-emze/cimloop/tree/main)  
+The framework is built on top of [**CiMLoop**](https://github.com/mit-emze/cimloop/tree/main).
 
 ___
 
