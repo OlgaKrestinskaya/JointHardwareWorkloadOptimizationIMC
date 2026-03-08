@@ -98,7 +98,7 @@ Follow steps similar to [CiMLoop](https://github.com/mit-emze/cimloop):
 
 ```bash
 git clone https://github.com/OlgaKrestinskaya/JointHardwareWorkloadOptimizationIMC.git
-cd HardwareWorkloadOptimization
+cd JointHardwareWorkloadOptimizationIMC
 export DOCKER_ARCH=<your processor architecture>  # e.g., amd64
 docker-compose pull
 docker-compose up
