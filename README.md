@@ -121,17 +121,28 @@ If you need to modify the Docker configuration to enable GPU support, please ref
 
 ## Usage
 
-- **Installations and debugging:**  
-  `HardwareWorkloadOptimization/main/testAndInstallations.ipynb`
+- **Checkign libraries and functionality:**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_00_additionalLibraries.ipynb`
   
-- **Run CIMNAS framework example:**  
-  `HardwareWorkloadOptimization/main/HardwareWorkloadOptimization.ipynb`
+- **Run Joint Hardware Workload Co-optimization framework (main example):**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_01_mainTest.ipynb`
 
-- **Test a single architecture:**  
-  `HardwareWorkloadOptimization/main/checking_singleHardwareArchitecture.ipynb`
+- **Cost experiments (Section IV-I):**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_02_testsForCOST.ipynb`
 
+- **Exploration for a larger set of networks (Section IV-J):**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_02_testsForCOST.ipynb`
 
----
+- **Testing aggregation schemes (Section IV-C):**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_04_tryingAggregations.ipynb`
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_04_tryingAggregations2.ipynb`
+
+- **Ablation studies for sequential search (Section IV-G):**  
+`JointHardwareWorkloadOptimizationIMC/main/HWC_05_dev_circ_arch_sys_search.ipynb`
+`JointHardwareWorkloadOptimizationIMC/main/HWC_05_dev_circ_arch_sys_searchSRAM.ipynb`
+
+- **Running hardware metrics test for a single hardware configuration:**  
+  `JointHardwareWorkloadOptimizationIMC/main/HWC_06_separateGPT.ipynb`
 
 ## Acknowledgments
 
